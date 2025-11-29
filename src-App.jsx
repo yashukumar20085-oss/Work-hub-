@@ -1,0 +1,1 @@
+export default function App(){return(<div style={{padding:40,fontFamily:'sans-serif'}}><h1>Work Hub</h1><p>Your freelancer-style platform is ready.</p></div>)}
